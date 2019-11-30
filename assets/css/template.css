@@ -265,7 +265,15 @@ h1,
 h2,
 .h2,
 h3,
-.h3,
+.h3{
+    font-family: "Montserrat", Arial, serif;
+    line-height: 1.4;
+    font-weight: 700;
+    color: #202020;
+    text-transform: uppercase;
+}
+
+
 h4,
 .h4,
 h5,
@@ -276,7 +284,7 @@ h6,
     line-height: 1.4;
     font-weight: 700;
     color: #202020;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 h1,
